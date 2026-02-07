@@ -36,4 +36,12 @@ Week 0 — Environment setup and project scaffolding
 This repository contains the design and implementation of a system to analyze and predict congestion at electric vehicle (EV) charging stations.
 
 ## Project Status
-Week 1: Problem definition and system design (in progress).
+
+✅ Week 0: Environment setup and project scaffolding (completed)
+
+✅ Week 1: Problem definition, data understanding, and feature design (completed)
+
+✅ Week 2: Baselines, temporal feature engineering, model training, 
+time-based validation, error analysis, and model selection (completed)
+
+🚧 Week 3: External data integration and model upgrades (upcoming)
