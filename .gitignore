@@ -1,19 +1,14 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environments
 venv/
-.env/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
 
-# VS Code
+# IDE
 .vscode/
+
+# Data (added later)
+data/

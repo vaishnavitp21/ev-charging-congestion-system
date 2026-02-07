@@ -1,0 +1,5 @@
+data:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  dataset_dir: data/dataset

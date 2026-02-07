@@ -29,3 +29,11 @@ ev_charging_congestion_system/
 
 ## Status
 Week 0 — Environment setup and project scaffolding
+
+
+# EV Charging Congestion Prediction System
+
+This repository contains the design and implementation of a system to analyze and predict congestion at electric vehicle (EV) charging stations.
+
+## Project Status
+Week 1: Problem definition and system design (in progress).
