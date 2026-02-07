@@ -32,3 +32,6 @@ Linear Regression with temporal features.
 ## Future Upgrade Path
 - Gradient Boosted Trees once external features are added
 - Separate weekday/weekend models
+- Temporal Fusion Transformer (TFT) with PyTorch Forecasting:
+  - Use `TimeSeriesDataSet.to_dataloader()` for train/validation loaders.
+  - Pass the `TemporalFusionTransformer` instance directly to `Trainer.fit()` since it already subclasses `LightningModule` (do not wrap it).
