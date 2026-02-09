@@ -12,3 +12,16 @@ Thumbs.db
 
 # Data (added later)
 data/
+
+# Training artifacts
+lightning_logs/
+models/checkpoints/
+models/tft/
+experiments/
+
+# Virtual environments
+venv/
+venv_weather/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
